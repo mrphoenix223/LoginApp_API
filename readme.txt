@@ -1,5 +1,21 @@
-## Project Name = My_Login_App Using API
-## This is My First MAUI App
-## Login => home Page => Emplyoee page => Add Emplyoee => Employee List
-## Sample
- 
+ 15380:20250404:141911.349 active check "log[/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log]" is not supported: Cannot obtain information for file "/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log": [2] No such file or directory
+ 15380:20250404:141913.452 active check "log[/var/log/httpd/error_log]" is not supported: Cannot obtain information for file "/var/log/httpd/error_log": [2] No such file or directory
+ 15380:20250404:141914.474 active check "log[/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log]" is not supported: Cannot obtain information for file "/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log": [2] No such file or directory
+ 15380:20250404:141916.526 active check "log[/var/log/httpd/error_log]" is not supported: Cannot obtain information for file "/var/log/httpd/error_log": [2] No such file or directory
+ 15380:20250404:141917.600 active check "log[/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log]" is not supported: Cannot obtain information for file "/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log": [2] No such file or directory
+ 15380:20250404:141919.642 active check "log[/var/log/httpd/error_log]" is not supported: Cannot obtain information for file "/var/log/httpd/error_log": [2] No such file or directory
+ 15380:20250404:141920.655 active check "log[/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log]" is not supported: Cannot obtain information for file "/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log": [2] No such file or directory
+ 15380:20250404:141922.675 active check "log[/var/log/httpd/error_log]" is not supported: Cannot obtain information for file "/var/log/httpd/error_log": [2] No such file or directory
+ 15380:20250404:141923.700 active check "log[/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log]" is not supported: Cannot obtain information for file "/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log": [2] No such file or directory
+ 15380:20250404:141925.738 active check "log[/var/log/httpd/error_log]" is not supported: Cannot obtain information for file "/var/log/httpd/error_log": [2] No such file or directory
+ 15380:20250404:141926.758 active check "log[/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log]" is not supported: Cannot obtain information for file "/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log": [2] No such file or directory
+ 15380:20250404:141928.857 active check "log[/var/log/httpd/error_log]" is not supported: Cannot obtain information for file "/var/log/httpd/error_log": [2] No such file or directory
+ 15380:20250404:141929.875 active check "log[/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log]" is not supported: Cannot obtain information for file "/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log": [2] No such file or directory
+ 15380:20250404:141931.906 active check "log[/var/log/httpd/error_log]" is not supported: Cannot obtain information for file "/var/log/httpd/error_log": [2] No such file or directory
+ 15380:20250404:141932.923 active check "log[/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log]" is not supported: Cannot obtain information for file "/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log": [2] No such file or directory
+ 15380:20250404:141934.946 active check "log[/var/log/httpd/error_log]" is not supported: Cannot obtain information for file "/var/log/httpd/error_log": [2] No such file or directory
+ 15380:20250404:141935.960 active check "log[/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log]" is not supported: Cannot obtain information for file "/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log": [2] No such file or directory
+ 15380:20250404:141937.998 active check "log[/var/log/httpd/error_log]" is not supported: Cannot obtain information for file "/var/log/httpd/error_log": [2] No such file or directory
+ 15380:20250404:141939.019 active check "log[/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log]" is not supported: Cannot obtain information for file "/mnt/d/Devops/Monitor/Monitor Sample Logs/Windows_Logs_samples.log": [2] No such file or directory
+ 15380:20250404:141941.059 active check "log[/var/log/httpd/error_log]" is not supported: Cannot obtain information for file "/var/log/httpd/error_log": [2] No such file or directory
+
